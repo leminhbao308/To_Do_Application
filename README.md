@@ -112,7 +112,7 @@ This software is licensed under the MIT License.
 
 # Contact
 
-If you have any questions or feedback, please contact the author:
+##If you have any questions or feedback, please contact the author:
 
 * Name: Lê Minh Bảo (Le Minh Bao)
 * Phone: (+84) 399 405 711
